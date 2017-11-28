@@ -1,0 +1,75 @@
+Info sur les positions prises ici, peut être pas à jour :/
+
+http://www.datacentermap.com/ -> carte interactive pour trouver datacenter
+
+http://nauges.typepad.com/my_weblog/2008/04/ -> vu plus détaillé du lien suivant
+
+
+http://www.haute-disponibilite.net/2008/04/14/carte-et-localisation-des-datacenter-de-google/
+
+https://atlas.ripe.net/results/maps/network-coverage/?filter= -> pour avoir la localisation des sondes
+
+1:
+On choisit une sonde à paris, de préférence celle avec l'uptime le plus long.
+24544 (https://atlas.ripe.net/probes/24544/#!tab-general)
+
+2:
+On choisit une sonde assez proche pour les tests
+Dublin correspond à un autre centre google
+24833 (https://atlas.ripe.net/probes/24833/#!tab-general)
+(sonde proche de dublin avec un très bon uptime
+
+3:
+Sonde à Londre : 2972
+
+4:
+Belgique, proche de la frontière 
+16233 a l'air de correspondre, bon uptime en plus
+
+5 et 6
+Pays-Bas, au nord, 16831 et 19327 (à vérifier pour la deuxième)
+
+7,8,9
+Berlin: 26360
+Franckfort: 26755
+Munich: 21295
+
+10
+Zurich: 22105
+
+11
+Milan: 19507
+
+
+12-29: Etats-Unis -> souvent peu de choix dans les sondes
+12:    Seattle: 21802
+13-14: Portland (et banlieue): 20282, 19527
+15-18: San Fransisco-San Jose : 21865, 20431, 19383, 14583
+19:    Los Angeles: 19096
+20:    Houston: 3579
+21:    Tulsa(nord-est): 10564
+22:    Omaha: 11706 (Kansas city, sonde plus proche ne marchait pas)
+23:    Atlanta: 22288
+24:    Charleston: 14097 (seul up dans le coin)
+25:    Chicago: 23964
+26-27: Washington: 13667, 10462
+28:    Virginia Beach: 13676 (dans le Delaware, la sonde à Virginia Beach ne marche pas)
+29:    Près de Charlotte et Asheville: 24626 (pas trop de choix ici non plus) 
+
+30
+Toronto: 14255
+
+31
+Sao Paolo: 16730
+
+32, 33
+Hong-Kong: 12203
+Pékin: 23707
+
+34
+Tokyo: 20352
+
+35
+Moscou: 21062
+
+

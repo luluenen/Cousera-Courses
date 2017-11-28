@@ -1,0 +1,5 @@
+- With measures with multiple sources, it is difficult to decode the data since it's not easy to determine if an element of the list is from one execution or the next one (after the interval). 
+The data appears to be mixed between different sources.
+There're some elements missing (result least smaller than expected) and it's difficult to tell what data exactly is missing.
+
+- Cousteau returning data in different representations (datetimes from Measurement class, timestamps when retrieving results).

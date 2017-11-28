@@ -1,0 +1,19 @@
+# Lines that start with '#' are comments.
+
+# ignore .pyc files 
+*.pyc
+# ignore ~ temporal files 
+*~
+
+# ifnore .png files 
+*.png
+
+# ifnore .png files 
+*.csv
+*.json
+*.log
+*.html
+
+
+
+

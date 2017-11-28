@@ -1,0 +1,5 @@
+TODO:
+
+- Add requests to Ripe Atlas API to show probe (and measurements?) info.
+
+- Review changes of Ripe Atlas API version

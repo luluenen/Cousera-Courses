@@ -1,0 +1,97 @@
+falvarez@PC-ESQI05326:~/mesuresoverlayripeatlas/src$ python3 measuresOverlay.py INFO:root:Getting parameters.
+Measurement parameters loaded from input_data/measure_parameters.json
+INFO:root:Parameters loaded from input_data/measure_parameters.json.
+INFO:root:Starting creation of measurements.
+INFO:root:Loaded successfully measure type src.overlay_model.measure.RTTMeasure.
+INFO:root:Loading 20 probes, random: False.
+INFO:root:Successfully read 20 first probes.
+INFO:root:Using date format without seconds.
+INFO:root:Parameters of periodic measure loaded.
+INFO:root:Atlas API Key successfully loaded.
+INFO:root:Using output_data/20160808_161300/ folder to save the data.
+INFO:root:Ping parameters successfully loaded.
+INFO:root:Launching measurements.
+INFO:root:Creating periodic measurement request to probe {"id":0,"ip_address":"208.66.128.17","probe_id":1130}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":0,"ip_address":"208.66.128.17","probe_id":1130} with id: 4503924.
+INFO:root:Creating periodic measurement request to probe {"id":1,"ip_address":"194.169.191.228","probe_id":2182}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":1,"ip_address":"194.169.191.228","probe_id":2182} with id: 4503925.
+INFO:root:Creating periodic measurement request to probe {"id":2,"ip_address":"195.222.8.8","probe_id":705}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":2,"ip_address":"195.222.8.8","probe_id":705} with id: 4503926.
+INFO:root:Creating periodic measurement request to probe {"id":3,"ip_address":"210.211.107.182","probe_id":1070}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":3,"ip_address":"210.211.107.182","probe_id":1070} with id: 4503927.
+INFO:root:Creating periodic measurement request to probe {"id":4,"ip_address":"31.216.56.4","probe_id":730}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":4,"ip_address":"31.216.56.4","probe_id":730} with id: 4503928.
+INFO:root:Creating periodic measurement request to probe {"id":5,"ip_address":"190.12.64.58","probe_id":6161}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":5,"ip_address":"190.12.64.58","probe_id":6161} with id: 4503929.
+INFO:root:Creating periodic measurement request to probe {"id":6,"ip_address":"46.183.219.225","probe_id":6198}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":6,"ip_address":"46.183.219.225","probe_id":6198} with id: 4503930.
+INFO:root:Creating periodic measurement request to probe {"id":7,"ip_address":"80.88.241.238","probe_id":13964}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":7,"ip_address":"80.88.241.238","probe_id":13964} with id: 4503931.
+INFO:root:Creating periodic measurement request to probe {"id":8,"ip_address":"136.145.231.9","probe_id":20057}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":8,"ip_address":"136.145.231.9","probe_id":20057} with id: 4503932.
+INFO:root:Creating periodic measurement request to probe {"id":9,"ip_address":"130.104.229.249","probe_id":6058}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":9,"ip_address":"130.104.229.249","probe_id":6058} with id: 4503933.
+INFO:root:Creating periodic measurement request to probe {"id":10,"ip_address":"202.151.24.90","probe_id":23031}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":10,"ip_address":"202.151.24.90","probe_id":23031} with id: 4503934.
+INFO:root:Creating periodic measurement request to probe {"id":11,"ip_address":"46.235.130.2","probe_id":1218}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":11,"ip_address":"46.235.130.2","probe_id":1218} with id: 4503935.
+INFO:root:Creating periodic measurement request to probe {"id":12,"ip_address":"192.107.171.139","probe_id":93}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":12,"ip_address":"192.107.171.139","probe_id":93} with id: 4503936.
+INFO:root:Creating periodic measurement request to probe {"id":13,"ip_address":"185.3.192.11","probe_id":19557}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":13,"ip_address":"185.3.192.11","probe_id":19557} with id: 4503937.
+INFO:root:Creating periodic measurement request to probe {"id":14,"ip_address":"212.110.33.252","probe_id":3284}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":14,"ip_address":"212.110.33.252","probe_id":3284} with id: 4503938.
+INFO:root:Creating periodic measurement request to probe {"id":15,"ip_address":"5.34.249.100","probe_id":19351}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":15,"ip_address":"5.34.249.100","probe_id":19351} with id: 4503939.
+INFO:root:Creating periodic measurement request to probe {"id":16,"ip_address":"210.56.11.202","probe_id":6128}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":16,"ip_address":"210.56.11.202","probe_id":6128} with id: 4503940.
+INFO:root:Creating periodic measurement request to probe {"id":17,"ip_address":"210.4.72.46","probe_id":6138}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":17,"ip_address":"210.4.72.46","probe_id":6138} with id: 4503941.
+INFO:root:Creating periodic measurement request to probe {"id":18,"ip_address":"193.178.146.45","probe_id":682}.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): atlas.ripe.net
+DEBUG:requests.packages.urllib3.connectionpool:"POST /api/v2/measurements/?key=c802aaf8-4e79-4e6a-825b-c0d6b2c156a2 HTTP/1.1" 201 None
+INFO:root:Measurement request done to probe {"id":18,"ip_address":"193.178.146.45","probe_id":682} with id: 4503942.
+INFO:root:Saving input parameters.
+DEBUG:root:Params: {'interval': 120, 'end': '2016-08-15T16:13:00', 'timeout': 30, 'af': 4, 'nb_probes': 20, 'packets': 5, 'random': False, 'start': '2016-08-08T16:13:00', 'fetch_interval': 20, 'packet_interval': 1000, 'update_interval': 120, 'is_oneoff': False}
+INFO:root:Parameters saved to json file.
+INFO:root:Saving nodes list and ids.
+INFO:root:Saved nodes and measurements ids successfully.
+INFO:root:Finished launching measures.
+INFO:root:Main: DONE.
+

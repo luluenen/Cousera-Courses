@@ -1,0 +1,43 @@
+Class Measure:
+
+    attributes: measures_info (List of measure dictionaries)
+                Ex: [
+                        {
+                            "creation_time": "20160808_161300",
+                            "start":"2016-08-08T16:13:00",
+                            "interval":120,
+                            "end":"2016-08-15T16:13:00",
+                            ...
+                        },
+                        {
+                            "creation_time": "20160818_132000",
+                            "interval":120,
+                            "end":"2016-08-25T13:20:00",
+                            "start":"2016-08-18T13:20:00",
+                            "more": [ #list of probes
+                                        [
+                                            {
+                                                "id":0,
+                                                "ip_address":"208.66.128.17",
+                                                "probe_id":1130
+                                            },
+                                            {
+                                                "id":1,
+                                                "ip_address":"194.169.191.228",
+                                                "probe_id":2182
+                                            },
+                                            ....
+                                        ],
+                                      #list of msm_ids
+                                        [
+                                            4503924,
+                                            4503925,
+                                            ....
+                                        ]
+                                    ]
+                            ...
+                        }
+                    ]
+                        
+
+

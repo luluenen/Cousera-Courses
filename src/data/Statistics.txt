@@ -1,0 +1,2563 @@
+Number of measurement: 36
+
+################ Probes Stats ################
+
+Probe 1: 
+	Number of measurement: 36
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 2: 
+	Number of measurement: 36
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 3: 
+	Number of measurement: 36
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 4: 
+	Number of measurement: 36
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 5: 
+	Number of measurement: 36
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 66.67%
+
+Probe 6: 
+	Number of measurement: 24
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 7: 
+	Number of measurement: 24
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 8: 
+	Number of measurement: 24
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 9: 
+	Number of measurement: 24
+	Last uptime: Fri Mar 11 13:44:12 2016
+	Disponibiliy: 100.00%
+
+Probe 10: 
+	Number of measurement: 24
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 54.17%
+
+Probe 11: 
+	Number of measurement: 13
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 84.62%
+
+Probe 12: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 13: 
+	Number of measurement: 11
+	Last uptime: Fri Jan 29 17:31:54 2016
+	Disponibiliy: 45.45%
+
+Probe 14: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 15: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 16: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 17: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 18: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 19: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 20: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 21: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 22: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 23: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 24: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 25: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 26: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 27: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 28: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 29: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 30: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 31: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 32: 
+	Number of measurement: 11
+	Last uptime: Mon Mar  7 14:55:36 2016
+	Disponibiliy: 100.00%
+
+Probe 33: 
+	Number of measurement: 11
+	Last uptime: Tue Feb 23 18:34:09 2016
+	Disponibiliy: 54.55%
+
+Probe 34: 
+	Number of measurement: 11
+	Last uptime: Tue Feb 23 18:34:09 2016
+	Disponibiliy: 54.55%
+
+Probe 35: 
+	Number of measurement: 11
+	Last uptime: Thu Jan  1 01:00:00 1970
+	Disponibiliy: 0.00%
+
+
+
+################ Links Stats ################
+
+Link 1 - 2: 
+	Moyenne: 27.99
+	Disponibilité: 100.00%
+
+Link 1 - 3: 
+	Moyenne: 20.33
+	Disponibilité: 100.00%
+
+Link 1 - 4: 
+	Moyenne: 17.59
+	Disponibilité: 100.00%
+
+Link 1 - 5: 
+	Moyenne: 18.44
+	Disponibilité: 100.00%
+
+Link 1 - 6: 
+	Moyenne: 21.89
+	Disponibilité: 100.00%
+
+Link 1 - 7: 
+	Moyenne: 29.08
+	Disponibilité: 100.00%
+
+Link 1 - 8: 
+	Moyenne: 22.63
+	Disponibilité: 100.00%
+
+Link 1 - 9: 
+	Moyenne: 18.45
+	Disponibilité: 100.00%
+
+Link 1 - 10: 
+	Moyenne: 17.40
+	Disponibilité: 100.00%
+
+Link 1 - 11: 
+	Moyenne: 182.94
+	Disponibilité: 92.31%
+
+Link 1 - 12: 
+	Moyenne: 485.71
+	Disponibilité: 81.82%
+
+Link 1 - 13: 
+	Moyenne: 166.01
+	Disponibilité: 100.00%
+
+Link 1 - 14: 
+	Moyenne: 505.01
+	Disponibilité: 81.82%
+
+Link 1 - 15: 
+	Moyenne: 1170.23
+	Disponibilité: 45.45%
+
+Link 1 - 16: 
+	Moyenne: 180.45
+	Disponibilité: 100.00%
+
+Link 1 - 17: 
+	Moyenne: 174.54
+	Disponibilité: 100.00%
+
+Link 1 - 18: 
+	Moyenne: 171.74
+	Disponibilité: 100.00%
+
+Link 1 - 19: 
+	Moyenne: 485.28
+	Disponibilité: 81.82%
+
+Link 1 - 20: 
+	Moyenne: 144.24
+	Disponibilité: 100.00%
+
+Link 1 - 21: 
+	Moyenne: 134.62
+	Disponibilité: 100.00%
+
+Link 1 - 22: 
+	Moyenne: 122.06
+	Disponibilité: 100.00%
+
+Link 1 - 23: 
+	Moyenne: 472.33
+	Disponibilité: 81.82%
+
+Link 1 - 24: 
+	Moyenne: 987.74
+	Disponibilité: 54.55%
+
+Link 1 - 25: 
+	Moyenne: 134.55
+	Disponibilité: 100.00%
+
+Link 1 - 26: 
+	Moyenne: 954.36
+	Disponibilité: 54.55%
+
+Link 1 - 27: 
+	Moyenne: 129.07
+	Disponibilité: 100.00%
+
+Link 1 - 28: 
+	Moyenne: 96.50
+	Disponibilité: 100.00%
+
+Link 1 - 29: 
+	Moyenne: 1141.59
+	Disponibilité: 45.45%
+
+Link 1 - 30: 
+	Moyenne: 112.19
+	Disponibilité: 100.00%
+
+Link 1 - 31: 
+	Moyenne: 251.25
+	Disponibilité: 100.00%
+
+Link 1 - 32: 
+	Moyenne: 183.05
+	Disponibilité: 100.00%
+
+Link 1 - 33: 
+	Moyenne: 1190.46
+	Disponibilité: 45.45%
+
+Link 1 - 34: 
+	Moyenne: 255.18
+	Disponibilité: 100.00%
+
+Link 1 - 35: 
+	Moyenne: 60.67
+	Disponibilité: 100.00%
+
+Link 2 - 3: 
+	Moyenne: 20.17
+	Disponibilité: 100.00%
+
+Link 2 - 4: 
+	Moyenne: 21.20
+	Disponibilité: 100.00%
+
+Link 2 - 5: 
+	Moyenne: 18.50
+	Disponibilité: 100.00%
+
+Link 2 - 6: 
+	Moyenne: 22.06
+	Disponibilité: 100.00%
+
+Link 2 - 7: 
+	Moyenne: 35.50
+	Disponibilité: 100.00%
+
+Link 2 - 8: 
+	Moyenne: 109.33
+	Disponibilité: 95.83%
+
+Link 2 - 9: 
+	Moyenne: 35.63
+	Disponibilité: 100.00%
+
+Link 2 - 10: 
+	Moyenne: 40.27
+	Disponibilité: 100.00%
+
+Link 2 - 11: 
+	Moyenne: 188.01
+	Disponibilité: 92.31%
+
+Link 2 - 12: 
+	Moyenne: 487.76
+	Disponibilité: 81.82%
+
+Link 2 - 13: 
+	Moyenne: 162.42
+	Disponibilité: 100.00%
+
+Link 2 - 14: 
+	Moyenne: 331.77
+	Disponibilité: 90.91%
+
+Link 2 - 15: 
+	Moyenne: 1167.67
+	Disponibilité: 45.45%
+
+Link 2 - 16: 
+	Moyenne: 169.69
+	Disponibilité: 100.00%
+
+Link 2 - 17: 
+	Moyenne: 158.41
+	Disponibilité: 100.00%
+
+Link 2 - 18: 
+	Moyenne: 165.03
+	Disponibilité: 100.00%
+
+Link 2 - 19: 
+	Moyenne: 317.50
+	Disponibilité: 90.91%
+
+Link 2 - 20: 
+	Moyenne: 205.56
+	Disponibilité: 100.00%
+
+Link 2 - 21: 
+	Moyenne: 135.19
+	Disponibilité: 100.00%
+
+Link 2 - 22: 
+	Moyenne: 132.58
+	Disponibilité: 100.00%
+
+Link 2 - 23: 
+	Moyenne: 298.28
+	Disponibilité: 90.91%
+
+Link 2 - 24: 
+	Moyenne: 987.62
+	Disponibilité: 54.55%
+
+Link 2 - 25: 
+	Moyenne: 102.55
+	Disponibilité: 100.00%
+
+Link 2 - 26: 
+	Moyenne: 958.11
+	Disponibilité: 54.55%
+
+Link 2 - 27: 
+	Moyenne: 96.95
+	Disponibilité: 100.00%
+
+Link 2 - 28: 
+	Moyenne: 102.10
+	Disponibilité: 100.00%
+
+Link 2 - 29: 
+	Moyenne: 1141.38
+	Disponibilité: 45.45%
+
+Link 2 - 30: 
+	Moyenne: 107.26
+	Disponibilité: 100.00%
+
+Link 2 - 31: 
+	Moyenne: 257.05
+	Disponibilité: 100.00%
+
+Link 2 - 32: 
+	Moyenne: 184.83
+	Disponibilité: 100.00%
+
+Link 2 - 33: 
+	Moyenne: 1248.48
+	Disponibilité: 45.45%
+
+Link 2 - 34: 
+	Moyenne: 263.23
+	Disponibilité: 100.00%
+
+Link 2 - 35: 
+	Moyenne: 64.10
+	Disponibilité: 100.00%
+
+Link 3 - 4: 
+	Moyenne: 13.06
+	Disponibilité: 100.00%
+
+Link 3 - 5: 
+	Moyenne: 11.01
+	Disponibilité: 100.00%
+
+Link 3 - 6: 
+	Moyenne: 13.65
+	Disponibilité: 100.00%
+
+Link 3 - 7: 
+	Moyenne: 25.64
+	Disponibilité: 100.00%
+
+Link 3 - 8: 
+	Moyenne: 104.05
+	Disponibilité: 95.83%
+
+Link 3 - 9: 
+	Moyenne: 25.02
+	Disponibilité: 100.00%
+
+Link 3 - 10: 
+	Moyenne: 23.04
+	Disponibilité: 100.00%
+
+Link 3 - 11: 
+	Moyenne: 332.81
+	Disponibilité: 84.62%
+
+Link 3 - 12: 
+	Moyenne: 470.24
+	Disponibilité: 81.82%
+
+Link 3 - 13: 
+	Moyenne: 147.71
+	Disponibilité: 100.00%
+
+Link 3 - 14: 
+	Moyenne: 489.49
+	Disponibilité: 81.82%
+
+Link 3 - 15: 
+	Moyenne: 1163.35
+	Disponibilité: 45.45%
+
+Link 3 - 16: 
+	Moyenne: 322.98
+	Disponibilité: 90.91%
+
+Link 3 - 17: 
+	Moyenne: 508.20
+	Disponibilité: 81.82%
+
+Link 3 - 18: 
+	Moyenne: 172.04
+	Disponibilité: 100.00%
+
+Link 3 - 19: 
+	Moyenne: 645.82
+	Disponibilité: 72.73%
+
+Link 3 - 20: 
+	Moyenne: 163.59
+	Disponibilité: 100.00%
+
+Link 3 - 21: 
+	Moyenne: 294.03
+	Disponibilité: 90.91%
+
+Link 3 - 22: 
+	Moyenne: 298.82
+	Disponibilité: 90.91%
+
+Link 3 - 23: 
+	Moyenne: 466.55
+	Disponibilité: 81.82%
+
+Link 3 - 24: 
+	Moyenne: 986.35
+	Disponibilité: 54.55%
+
+Link 3 - 25: 
+	Moyenne: 96.31
+	Disponibilité: 100.00%
+
+Link 3 - 26: 
+	Moyenne: 951.23
+	Disponibilité: 54.55%
+
+Link 3 - 27: 
+	Moyenne: 88.21
+	Disponibilité: 100.00%
+
+Link 3 - 28: 
+	Moyenne: 96.12
+	Disponibilité: 100.00%
+
+Link 3 - 29: 
+	Moyenne: 1137.26
+	Disponibilité: 45.45%
+
+Link 3 - 30: 
+	Moyenne: 100.08
+	Disponibilité: 100.00%
+
+Link 3 - 31: 
+	Moyenne: 243.45
+	Disponibilité: 100.00%
+
+Link 3 - 32: 
+	Moyenne: 341.59
+	Disponibilité: 90.91%
+
+Link 3 - 33: 
+	Moyenne: 1256.25
+	Disponibilité: 45.45%
+
+Link 3 - 34: 
+	Moyenne: 245.01
+	Disponibilité: 100.00%
+
+Link 3 - 35: 
+	Moyenne: 407.80
+	Disponibilité: 81.82%
+
+Link 4 - 5: 
+	Moyenne: 8.41
+	Disponibilité: 100.00%
+
+Link 4 - 6: 
+	Moyenne: 12.67
+	Disponibilité: 100.00%
+
+Link 4 - 7: 
+	Moyenne: 29.51
+	Disponibilité: 100.00%
+
+Link 4 - 8: 
+	Moyenne: 102.17
+	Disponibilité: 95.83%
+
+Link 4 - 9: 
+	Moyenne: 25.11
+	Disponibilité: 100.00%
+
+Link 4 - 10: 
+	Moyenne: 29.08
+	Disponibilité: 100.00%
+
+Link 4 - 11: 
+	Moyenne: 194.04
+	Disponibilité: 92.31%
+
+Link 4 - 12: 
+	Moyenne: 473.53
+	Disponibilité: 81.82%
+
+Link 4 - 13: 
+	Moyenne: 151.57
+	Disponibilité: 100.00%
+
+Link 4 - 14: 
+	Moyenne: 493.25
+	Disponibilité: 81.82%
+
+Link 4 - 15: 
+	Moyenne: 1168.19
+	Disponibilité: 45.45%
+
+Link 4 - 16: 
+	Moyenne: 171.39
+	Disponibilité: 100.00%
+
+Link 4 - 17: 
+	Moyenne: 167.88
+	Disponibilité: 100.00%
+
+Link 4 - 18: 
+	Moyenne: 165.07
+	Disponibilité: 100.00%
+
+Link 4 - 19: 
+	Moyenne: 489.14
+	Disponibilité: 81.82%
+
+Link 4 - 20: 
+	Moyenne: 188.28
+	Disponibilité: 100.00%
+
+Link 4 - 21: 
+	Moyenne: 158.12
+	Disponibilité: 100.00%
+
+Link 4 - 22: 
+	Moyenne: 119.48
+	Disponibilité: 100.00%
+
+Link 4 - 23: 
+	Moyenne: 470.80
+	Disponibilité: 81.82%
+
+Link 4 - 24: 
+	Moyenne: 992.04
+	Disponibilité: 54.55%
+
+Link 4 - 25: 
+	Moyenne: 104.65
+	Disponibilité: 100.00%
+
+Link 4 - 26: 
+	Moyenne: 959.68
+	Disponibilité: 54.55%
+
+Link 4 - 27: 
+	Moyenne: 105.07
+	Disponibilité: 100.00%
+
+Link 4 - 28: 
+	Moyenne: 121.14
+	Disponibilité: 100.00%
+
+Link 4 - 29: 
+	Moyenne: 1145.20
+	Disponibilité: 45.45%
+
+Link 4 - 30: 
+	Moyenne: 122.42
+	Disponibilité: 100.00%
+
+Link 4 - 31: 
+	Moyenne: 247.11
+	Disponibilité: 100.00%
+
+Link 4 - 32: 
+	Moyenne: 174.28
+	Disponibilité: 100.00%
+
+Link 4 - 33: 
+	Moyenne: 1254.26
+	Disponibilité: 45.45%
+
+Link 4 - 34: 
+	Moyenne: 233.00
+	Disponibilité: 100.00%
+
+Link 4 - 35: 
+	Moyenne: 48.45
+	Disponibilité: 100.00%
+
+Link 5 - 6: 
+	Moyenne: 13.08
+	Disponibilité: 100.00%
+
+Link 5 - 7: 
+	Moyenne: 34.96
+	Disponibilité: 100.00%
+
+Link 5 - 8: 
+	Moyenne: 99.27
+	Disponibilité: 95.83%
+
+Link 5 - 9: 
+	Moyenne: 26.57
+	Disponibilité: 100.00%
+
+Link 5 - 10: 
+	Moyenne: 32.81
+	Disponibilité: 100.00%
+
+Link 5 - 11: 
+	Moyenne: 188.90
+	Disponibilité: 92.31%
+
+Link 5 - 12: 
+	Moyenne: 310.90
+	Disponibilité: 90.91%
+
+Link 5 - 13: 
+	Moyenne: 164.71
+	Disponibilité: 100.00%
+
+Link 5 - 14: 
+	Moyenne: 341.32
+	Disponibilité: 90.91%
+
+Link 5 - 15: 
+	Moyenne: 1175.62
+	Disponibilité: 45.45%
+
+Link 5 - 16: 
+	Moyenne: 178.54
+	Disponibilité: 100.00%
+
+Link 5 - 17: 
+	Moyenne: 169.14
+	Disponibilité: 100.00%
+
+Link 5 - 18: 
+	Moyenne: 182.79
+	Disponibilité: 100.00%
+
+Link 5 - 19: 
+	Moyenne: 318.13
+	Disponibilité: 90.91%
+
+Link 5 - 20: 
+	Moyenne: 193.58
+	Disponibilité: 100.00%
+
+Link 5 - 21: 
+	Moyenne: 151.74
+	Disponibilité: 100.00%
+
+Link 5 - 22: 
+	Moyenne: 134.89
+	Disponibilité: 100.00%
+
+Link 5 - 23: 
+	Moyenne: 312.56
+	Disponibilité: 90.91%
+
+Link 5 - 24: 
+	Moyenne: 992.55
+	Disponibilité: 54.55%
+
+Link 5 - 25: 
+	Moyenne: 109.50
+	Disponibilité: 100.00%
+
+Link 5 - 26: 
+	Moyenne: 965.12
+	Disponibilité: 54.55%
+
+Link 5 - 27: 
+	Moyenne: 134.10
+	Disponibilité: 100.00%
+
+Link 5 - 28: 
+	Moyenne: 109.75
+	Disponibilité: 100.00%
+
+Link 5 - 29: 
+	Moyenne: 1146.83
+	Disponibilité: 45.45%
+
+Link 5 - 30: 
+	Moyenne: 118.48
+	Disponibilité: 100.00%
+
+Link 5 - 31: 
+	Moyenne: 254.17
+	Disponibilité: 100.00%
+
+Link 5 - 32: 
+	Moyenne: 174.49
+	Disponibilité: 100.00%
+
+Link 5 - 33: 
+	Moyenne: 1215.58
+	Disponibilité: 45.45%
+
+Link 5 - 34: 
+	Moyenne: 250.67
+	Disponibilité: 100.00%
+
+Link 5 - 35: 
+	Moyenne: 48.64
+	Disponibilité: 100.00%
+
+Link 6 - 7: 
+	Moyenne: 42.50
+	Disponibilité: 100.00%
+
+Link 6 - 8: 
+	Moyenne: 99.18
+	Disponibilité: 95.83%
+
+Link 6 - 9: 
+	Moyenne: 19.61
+	Disponibilité: 100.00%
+
+Link 6 - 10: 
+	Moyenne: 36.40
+	Disponibilité: 100.00%
+
+Link 6 - 11: 
+	Moyenne: 187.44
+	Disponibilité: 92.31%
+
+Link 6 - 12: 
+	Moyenne: 478.27
+	Disponibilité: 81.82%
+
+Link 6 - 13: 
+	Moyenne: 148.92
+	Disponibilité: 100.00%
+
+Link 6 - 14: 
+	Moyenne: 505.98
+	Disponibilité: 81.82%
+
+Link 6 - 15: 
+	Moyenne: 1175.59
+	Disponibilité: 45.45%
+
+Link 6 - 16: 
+	Moyenne: 178.48
+	Disponibilité: 100.00%
+
+Link 6 - 17: 
+	Moyenne: 160.77
+	Disponibilité: 100.00%
+
+Link 6 - 18: 
+	Moyenne: 171.76
+	Disponibilité: 100.00%
+
+Link 6 - 19: 
+	Moyenne: 487.63
+	Disponibilité: 81.82%
+
+Link 6 - 20: 
+	Moyenne: 161.89
+	Disponibilité: 100.00%
+
+Link 6 - 21: 
+	Moyenne: 149.42
+	Disponibilité: 100.00%
+
+Link 6 - 22: 
+	Moyenne: 131.35
+	Disponibilité: 100.00%
+
+Link 6 - 23: 
+	Moyenne: 465.93
+	Disponibilité: 81.82%
+
+Link 6 - 24: 
+	Moyenne: 989.24
+	Disponibilité: 54.55%
+
+Link 6 - 25: 
+	Moyenne: 140.16
+	Disponibilité: 100.00%
+
+Link 6 - 26: 
+	Moyenne: 960.23
+	Disponibilité: 54.55%
+
+Link 6 - 27: 
+	Moyenne: 105.95
+	Disponibilité: 100.00%
+
+Link 6 - 28: 
+	Moyenne: 109.33
+	Disponibilité: 100.00%
+
+Link 6 - 29: 
+	Moyenne: 1146.01
+	Disponibilité: 45.45%
+
+Link 6 - 30: 
+	Moyenne: 120.85
+	Disponibilité: 100.00%
+
+Link 6 - 31: 
+	Moyenne: 241.84
+	Disponibilité: 100.00%
+
+Link 6 - 32: 
+	Moyenne: 173.78
+	Disponibilité: 100.00%
+
+Link 6 - 33: 
+	Moyenne: 1220.29
+	Disponibilité: 45.45%
+
+Link 6 - 34: 
+	Moyenne: 278.16
+	Disponibilité: 100.00%
+
+Link 6 - 35: 
+	Moyenne: 56.59
+	Disponibilité: 100.00%
+
+Link 7 - 8: 
+	Moyenne: 85.15
+	Disponibilité: 95.83%
+
+Link 7 - 9: 
+	Moyenne: 30.31
+	Disponibilité: 100.00%
+
+Link 7 - 10: 
+	Moyenne: 29.15
+	Disponibilité: 100.00%
+
+Link 7 - 11: 
+	Moyenne: 204.97
+	Disponibilité: 92.31%
+
+Link 7 - 12: 
+	Moyenne: 497.85
+	Disponibilité: 81.82%
+
+Link 7 - 13: 
+	Moyenne: 356.21
+	Disponibilité: 90.91%
+
+Link 7 - 14: 
+	Moyenne: 516.09
+	Disponibilité: 81.82%
+
+Link 7 - 15: 
+	Moyenne: 1180.93
+	Disponibilité: 45.45%
+
+Link 7 - 16: 
+	Moyenne: 192.81
+	Disponibilité: 100.00%
+
+Link 7 - 17: 
+	Moyenne: 185.55
+	Disponibilité: 100.00%
+
+Link 7 - 18: 
+	Moyenne: 194.66
+	Disponibilité: 100.00%
+
+Link 7 - 19: 
+	Moyenne: 497.36
+	Disponibilité: 81.82%
+
+Link 7 - 20: 
+	Moyenne: 189.69
+	Disponibilité: 100.00%
+
+Link 7 - 21: 
+	Moyenne: 155.51
+	Disponibilité: 100.00%
+
+Link 7 - 22: 
+	Moyenne: 127.79
+	Disponibilité: 100.00%
+
+Link 7 - 23: 
+	Moyenne: 481.65
+	Disponibilité: 81.82%
+
+Link 7 - 24: 
+	Moyenne: 1003.28
+	Disponibilité: 54.55%
+
+Link 7 - 25: 
+	Moyenne: 121.82
+	Disponibilité: 100.00%
+
+Link 7 - 26: 
+	Moyenne: 964.62
+	Disponibilité: 54.55%
+
+Link 7 - 27: 
+	Moyenne: 118.06
+	Disponibilité: 100.00%
+
+Link 7 - 28: 
+	Moyenne: 126.49
+	Disponibilité: 100.00%
+
+Link 7 - 29: 
+	Moyenne: 1149.08
+	Disponibilité: 45.45%
+
+Link 7 - 30: 
+	Moyenne: 143.89
+	Disponibilité: 100.00%
+
+Link 7 - 31: 
+	Moyenne: 246.37
+	Disponibilité: 100.00%
+
+Link 7 - 32: 
+	Moyenne: 183.26
+	Disponibilité: 100.00%
+
+Link 7 - 33: 
+	Moyenne: 1210.16
+	Disponibilité: 45.45%
+
+Link 7 - 34: 
+	Moyenne: 286.17
+	Disponibilité: 100.00%
+
+Link 7 - 35: 
+	Moyenne: 62.73
+	Disponibilité: 100.00%
+
+Link 8 - 9: 
+	Moyenne: 31.55
+	Disponibilité: 100.00%
+
+Link 8 - 10: 
+	Moyenne: 24.32
+	Disponibilité: 100.00%
+
+Link 8 - 11: 
+	Moyenne: 190.73
+	Disponibilité: 92.31%
+
+Link 8 - 12: 
+	Moyenne: 329.75
+	Disponibilité: 90.91%
+
+Link 8 - 13: 
+	Moyenne: 176.52
+	Disponibilité: 100.00%
+
+Link 8 - 14: 
+	Moyenne: 348.53
+	Disponibilité: 90.91%
+
+Link 8 - 15: 
+	Moyenne: 1176.20
+	Disponibilité: 45.45%
+
+Link 8 - 16: 
+	Moyenne: 189.93
+	Disponibilité: 100.00%
+
+Link 8 - 17: 
+	Moyenne: 169.92
+	Disponibilité: 100.00%
+
+Link 8 - 18: 
+	Moyenne: 178.56
+	Disponibilité: 100.00%
+
+Link 8 - 19: 
+	Moyenne: 341.97
+	Disponibilité: 90.91%
+
+Link 8 - 20: 
+	Moyenne: 164.35
+	Disponibilité: 100.00%
+
+Link 8 - 21: 
+	Moyenne: 158.66
+	Disponibilité: 100.00%
+
+Link 8 - 22: 
+	Moyenne: 124.48
+	Disponibilité: 100.00%
+
+Link 8 - 23: 
+	Moyenne: 307.97
+	Disponibilité: 90.91%
+
+Link 8 - 24: 
+	Moyenne: 996.38
+	Disponibilité: 54.55%
+
+Link 8 - 25: 
+	Moyenne: 148.18
+	Disponibilité: 100.00%
+
+Link 8 - 26: 
+	Moyenne: 965.68
+	Disponibilité: 54.55%
+
+Link 8 - 27: 
+	Moyenne: 114.67
+	Disponibilité: 100.00%
+
+Link 8 - 28: 
+	Moyenne: 122.97
+	Disponibilité: 100.00%
+
+Link 8 - 29: 
+	Moyenne: 1152.71
+	Disponibilité: 45.45%
+
+Link 8 - 30: 
+	Moyenne: 122.28
+	Disponibilité: 100.00%
+
+Link 8 - 31: 
+	Moyenne: 245.40
+	Disponibilité: 100.00%
+
+Link 8 - 32: 
+	Moyenne: 242.15
+	Disponibilité: 100.00%
+
+Link 8 - 33: 
+	Moyenne: 1258.47
+	Disponibilité: 45.45%
+
+Link 8 - 34: 
+	Moyenne: 480.37
+	Disponibilité: 90.91%
+
+Link 8 - 35: 
+	Moyenne: 63.94
+	Disponibilité: 100.00%
+
+Link 9 - 10: 
+	Moyenne: 24.32
+	Disponibilité: 100.00%
+
+Link 9 - 11: 
+	Moyenne: 193.71
+	Disponibilité: 92.31%
+
+Link 9 - 12: 
+	Moyenne: 310.55
+	Disponibilité: 90.91%
+
+Link 9 - 13: 
+	Moyenne: 334.60
+	Disponibilité: 90.91%
+
+Link 9 - 14: 
+	Moyenne: 342.42
+	Disponibilité: 90.91%
+
+Link 9 - 15: 
+	Moyenne: 1175.81
+	Disponibilité: 45.45%
+
+Link 9 - 16: 
+	Moyenne: 181.57
+	Disponibilité: 100.00%
+
+Link 9 - 17: 
+	Moyenne: 168.61
+	Disponibilité: 100.00%
+
+Link 9 - 18: 
+	Moyenne: 170.32
+	Disponibilité: 100.00%
+
+Link 9 - 19: 
+	Moyenne: 323.98
+	Disponibilité: 90.91%
+
+Link 9 - 20: 
+	Moyenne: 319.70
+	Disponibilité: 90.91%
+
+Link 9 - 21: 
+	Moyenne: 159.95
+	Disponibilité: 100.00%
+
+Link 9 - 22: 
+	Moyenne: 128.14
+	Disponibilité: 100.00%
+
+Link 9 - 23: 
+	Moyenne: 299.99
+	Disponibilité: 90.91%
+
+Link 9 - 24: 
+	Moyenne: 996.33
+	Disponibilité: 54.55%
+
+Link 9 - 25: 
+	Moyenne: 114.75
+	Disponibilité: 100.00%
+
+Link 9 - 26: 
+	Moyenne: 963.61
+	Disponibilité: 54.55%
+
+Link 9 - 27: 
+	Moyenne: 108.67
+	Disponibilité: 100.00%
+
+Link 9 - 28: 
+	Moyenne: 121.71
+	Disponibilité: 100.00%
+
+Link 9 - 29: 
+	Moyenne: 1154.98
+	Disponibilité: 45.45%
+
+Link 9 - 30: 
+	Moyenne: 129.76
+	Disponibilité: 100.00%
+
+Link 9 - 31: 
+	Moyenne: 398.07
+	Disponibilité: 90.91%
+
+Link 9 - 32: 
+	Moyenne: 175.13
+	Disponibilité: 100.00%
+
+Link 9 - 33: 
+	Moyenne: 1403.19
+	Disponibilité: 36.36%
+
+Link 9 - 34: 
+	Moyenne: 323.10
+	Disponibilité: 100.00%
+
+Link 9 - 35: 
+	Moyenne: 62.89
+	Disponibilité: 100.00%
+
+Link 10 - 11: 
+	Moyenne: 188.71
+	Disponibilité: 92.31%
+
+Link 10 - 12: 
+	Moyenne: 486.53
+	Disponibilité: 81.82%
+
+Link 10 - 13: 
+	Moyenne: 171.57
+	Disponibilité: 100.00%
+
+Link 10 - 14: 
+	Moyenne: 360.25
+	Disponibilité: 90.91%
+
+Link 10 - 15: 
+	Moyenne: 1178.28
+	Disponibilité: 45.45%
+
+Link 10 - 16: 
+	Moyenne: 195.99
+	Disponibilité: 100.00%
+
+Link 10 - 17: 
+	Moyenne: 177.86
+	Disponibilité: 100.00%
+
+Link 10 - 18: 
+	Moyenne: 183.33
+	Disponibilité: 100.00%
+
+Link 10 - 19: 
+	Moyenne: 337.07
+	Disponibilité: 90.91%
+
+Link 10 - 20: 
+	Moyenne: 174.01
+	Disponibilité: 100.00%
+
+Link 10 - 21: 
+	Moyenne: 315.61
+	Disponibilité: 90.91%
+
+Link 10 - 22: 
+	Moyenne: 181.06
+	Disponibilité: 100.00%
+
+Link 10 - 23: 
+	Moyenne: 300.36
+	Disponibilité: 90.91%
+
+Link 10 - 24: 
+	Moyenne: 990.63
+	Disponibilité: 54.55%
+
+Link 10 - 25: 
+	Moyenne: 154.75
+	Disponibilité: 100.00%
+
+Link 10 - 26: 
+	Moyenne: 966.54
+	Disponibilité: 54.55%
+
+Link 10 - 27: 
+	Moyenne: 107.96
+	Disponibilité: 100.00%
+
+Link 10 - 28: 
+	Moyenne: 119.12
+	Disponibilité: 100.00%
+
+Link 10 - 29: 
+	Moyenne: 1146.16
+	Disponibilité: 45.45%
+
+Link 10 - 30: 
+	Moyenne: 136.76
+	Disponibilité: 100.00%
+
+Link 10 - 31: 
+	Moyenne: 248.25
+	Disponibilité: 100.00%
+
+Link 10 - 32: 
+	Moyenne: 249.00
+	Disponibilité: 100.00%
+
+Link 10 - 33: 
+	Moyenne: 1411.91
+	Disponibilité: 36.36%
+
+Link 10 - 34: 
+	Moyenne: 194.54
+	Disponibilité: 100.00%
+
+Link 10 - 35: 
+	Moyenne: 59.35
+	Disponibilité: 100.00%
+
+Link 11 - 12: 
+	Moyenne: 507.71
+	Disponibilité: 81.82%
+
+Link 11 - 13: 
+	Moyenne: 189.76
+	Disponibilité: 100.00%
+
+Link 11 - 14: 
+	Moyenne: 348.66
+	Disponibilité: 90.91%
+
+Link 11 - 15: 
+	Moyenne: 1186.00
+	Disponibilité: 45.45%
+
+Link 11 - 16: 
+	Moyenne: 192.20
+	Disponibilité: 100.00%
+
+Link 11 - 17: 
+	Moyenne: 190.47
+	Disponibilité: 100.00%
+
+Link 11 - 18: 
+	Moyenne: 206.68
+	Disponibilité: 100.00%
+
+Link 11 - 19: 
+	Moyenne: 344.14
+	Disponibilité: 90.91%
+
+Link 11 - 20: 
+	Moyenne: 235.36
+	Disponibilité: 100.00%
+
+Link 11 - 21: 
+	Moyenne: 171.41
+	Disponibilité: 100.00%
+
+Link 11 - 22: 
+	Moyenne: 141.04
+	Disponibilité: 100.00%
+
+Link 11 - 23: 
+	Moyenne: 311.52
+	Disponibilité: 90.91%
+
+Link 11 - 24: 
+	Moyenne: 1003.84
+	Disponibilité: 54.55%
+
+Link 11 - 25: 
+	Moyenne: 120.54
+	Disponibilité: 100.00%
+
+Link 11 - 26: 
+	Moyenne: 968.56
+	Disponibilité: 54.55%
+
+Link 11 - 27: 
+	Moyenne: 118.25
+	Disponibilité: 100.00%
+
+Link 11 - 28: 
+	Moyenne: 121.67
+	Disponibilité: 100.00%
+
+Link 11 - 29: 
+	Moyenne: 1147.35
+	Disponibilité: 45.45%
+
+Link 11 - 30: 
+	Moyenne: 141.97
+	Disponibilité: 100.00%
+
+Link 11 - 31: 
+	Moyenne: 249.52
+	Disponibilité: 100.00%
+
+Link 11 - 32: 
+	Moyenne: 179.29
+	Disponibilité: 100.00%
+
+Link 11 - 33: 
+	Moyenne: 1419.02
+	Disponibilité: 36.36%
+
+Link 11 - 34: 
+	Moyenne: 304.39
+	Disponibilité: 100.00%
+
+Link 11 - 35: 
+	Moyenne: 72.55
+	Disponibilité: 100.00%
+
+Link 12 - 13: 
+	Moyenne: 24.87
+	Disponibilité: 100.00%
+
+Link 12 - 14: 
+	Moyenne: 379.49
+	Disponibilité: 81.82%
+
+Link 12 - 15: 
+	Moyenne: 1115.66
+	Disponibilité: 45.45%
+
+Link 12 - 16: 
+	Moyenne: 54.05
+	Disponibilité: 100.00%
+
+Link 12 - 17: 
+	Moyenne: 45.24
+	Disponibilité: 100.00%
+
+Link 12 - 18: 
+	Moyenne: 63.70
+	Disponibilité: 100.00%
+
+Link 12 - 19: 
+	Moyenne: 391.87
+	Disponibilité: 81.82%
+
+Link 12 - 20: 
+	Moyenne: 130.11
+	Disponibilité: 100.00%
+
+Link 12 - 21: 
+	Moyenne: 98.54
+	Disponibilité: 100.00%
+
+Link 12 - 22: 
+	Moyenne: 94.15
+	Disponibilité: 100.00%
+
+Link 12 - 23: 
+	Moyenne: 437.45
+	Disponibilité: 81.82%
+
+Link 12 - 24: 
+	Moyenne: 966.78
+	Disponibilité: 54.55%
+
+Link 12 - 25: 
+	Moyenne: 124.06
+	Disponibilité: 100.00%
+
+Link 12 - 26: 
+	Moyenne: 949.23
+	Disponibilité: 54.55%
+
+Link 12 - 27: 
+	Moyenne: 85.41
+	Disponibilité: 100.00%
+
+Link 12 - 28: 
+	Moyenne: 87.79
+	Disponibilité: 100.00%
+
+Link 12 - 29: 
+	Moyenne: 1143.10
+	Disponibilité: 45.45%
+
+Link 12 - 30: 
+	Moyenne: 81.70
+	Disponibilité: 100.00%
+
+Link 12 - 31: 
+	Moyenne: 368.16
+	Disponibilité: 90.91%
+
+Link 12 - 32: 
+	Moyenne: 170.53
+	Disponibilité: 100.00%
+
+Link 12 - 33: 
+	Moyenne: 1223.19
+	Disponibilité: 45.45%
+
+Link 12 - 34: 
+	Moyenne: 132.90
+	Disponibilité: 100.00%
+
+Link 12 - 35: 
+	Moyenne: 213.36
+	Disponibilité: 100.00%
+
+Link 13 - 14: 
+	Moyenne: 1113.44
+	Disponibilité: 45.45%
+
+Link 13 - 15: 
+	Moyenne: 1113.01
+	Disponibilité: 45.45%
+
+Link 13 - 16: 
+	Moyenne: 1116.78
+	Disponibilité: 45.45%
+
+Link 13 - 17: 
+	Moyenne: 1111.42
+	Disponibilité: 45.45%
+
+Link 13 - 18: 
+	Moyenne: 1112.84
+	Disponibilité: 45.45%
+
+Link 13 - 19: 
+	Moyenne: 1110.60
+	Disponibilité: 45.45%
+
+Link 13 - 20: 
+	Moyenne: 1154.98
+	Disponibilité: 45.45%
+
+Link 13 - 21: 
+	Moyenne: 1130.93
+	Disponibilité: 45.45%
+
+Link 13 - 22: 
+	Moyenne: 1135.92
+	Disponibilité: 45.45%
+
+Link 13 - 23: 
+	Moyenne: 1136.49
+	Disponibilité: 45.45%
+
+Link 13 - 24: 
+	Moyenne: 1142.13
+	Disponibilité: 45.45%
+
+Link 13 - 25: 
+	Moyenne: 1126.82
+	Disponibilité: 45.45%
+
+Link 13 - 26: 
+	Moyenne: 2000.00
+	Disponibilité: 0.00%
+
+Link 13 - 27: 
+	Moyenne: 1133.78
+	Disponibilité: 45.45%
+
+Link 13 - 28: 
+	Moyenne: 1136.51
+	Disponibilité: 45.45%
+
+Link 13 - 29: 
+	Moyenne: 1142.75
+	Disponibilité: 45.45%
+
+Link 13 - 30: 
+	Moyenne: 1143.82
+	Disponibilité: 45.45%
+
+Link 13 - 31: 
+	Moyenne: 1190.34
+	Disponibilité: 45.45%
+
+Link 13 - 32: 
+	Moyenne: 1175.01
+	Disponibilité: 45.45%
+
+Link 13 - 33: 
+	Moyenne: 1211.83
+	Disponibilité: 45.45%
+
+Link 13 - 34: 
+	Moyenne: 1176.34
+	Disponibilité: 45.45%
+
+Link 13 - 35: 
+	Moyenne: 1192.51
+	Disponibilité: 45.45%
+
+Link 14 - 15: 
+	Moyenne: 1118.84
+	Disponibilité: 45.45%
+
+Link 14 - 16: 
+	Moyenne: 56.46
+	Disponibilité: 100.00%
+
+Link 14 - 17: 
+	Moyenne: 51.69
+	Disponibilité: 100.00%
+
+Link 14 - 18: 
+	Moyenne: 55.12
+	Disponibilité: 100.00%
+
+Link 14 - 19: 
+	Moyenne: 400.56
+	Disponibilité: 81.82%
+
+Link 14 - 20: 
+	Moyenne: 172.09
+	Disponibilité: 100.00%
+
+Link 14 - 21: 
+	Moyenne: 114.53
+	Disponibilité: 100.00%
+
+Link 14 - 22: 
+	Moyenne: 84.11
+	Disponibilité: 100.00%
+
+Link 14 - 23: 
+	Moyenne: 449.40
+	Disponibilité: 81.82%
+
+Link 14 - 24: 
+	Moyenne: 981.63
+	Disponibilité: 54.55%
+
+Link 14 - 25: 
+	Moyenne: 105.59
+	Disponibilité: 100.00%
+
+Link 14 - 26: 
+	Moyenne: 953.75
+	Disponibilité: 54.55%
+
+Link 14 - 27: 
+	Moyenne: 92.36
+	Disponibilité: 100.00%
+
+Link 14 - 28: 
+	Moyenne: 105.35
+	Disponibilité: 100.00%
+
+Link 14 - 29: 
+	Moyenne: 1147.77
+	Disponibilité: 45.45%
+
+Link 14 - 30: 
+	Moyenne: 103.44
+	Disponibilité: 100.00%
+
+Link 14 - 31: 
+	Moyenne: 228.47
+	Disponibilité: 100.00%
+
+Link 14 - 32: 
+	Moyenne: 190.71
+	Disponibilité: 100.00%
+
+Link 14 - 33: 
+	Moyenne: 1388.48
+	Disponibilité: 36.36%
+
+Link 14 - 34: 
+	Moyenne: 125.30
+	Disponibilité: 100.00%
+
+Link 14 - 35: 
+	Moyenne: 226.29
+	Disponibilité: 100.00%
+
+Link 15 - 16: 
+	Moyenne: 47.97
+	Disponibilité: 100.00%
+
+Link 15 - 17: 
+	Moyenne: 38.78
+	Disponibilité: 100.00%
+
+Link 15 - 18: 
+	Moyenne: 43.18
+	Disponibilité: 100.00%
+
+Link 15 - 19: 
+	Moyenne: 396.27
+	Disponibilité: 81.82%
+
+Link 15 - 20: 
+	Moyenne: 165.31
+	Disponibilité: 100.00%
+
+Link 15 - 21: 
+	Moyenne: 78.34
+	Disponibilité: 100.00%
+
+Link 15 - 22: 
+	Moyenne: 77.45
+	Disponibilité: 100.00%
+
+Link 15 - 23: 
+	Moyenne: 452.72
+	Disponibilité: 81.82%
+
+Link 15 - 24: 
+	Moyenne: 975.22
+	Disponibilité: 54.55%
+
+Link 15 - 25: 
+	Moyenne: 88.44
+	Disponibilité: 100.00%
+
+Link 15 - 26: 
+	Moyenne: 954.90
+	Disponibilité: 54.55%
+
+Link 15 - 27: 
+	Moyenne: 101.20
+	Disponibilité: 100.00%
+
+Link 15 - 28: 
+	Moyenne: 116.63
+	Disponibilité: 100.00%
+
+Link 15 - 29: 
+	Moyenne: 1143.72
+	Disponibilité: 45.45%
+
+Link 15 - 30: 
+	Moyenne: 116.16
+	Disponibilité: 100.00%
+
+Link 15 - 31: 
+	Moyenne: 219.45
+	Disponibilité: 100.00%
+
+Link 15 - 32: 
+	Moyenne: 200.09
+	Disponibilité: 100.00%
+
+Link 15 - 33: 
+	Moyenne: 1405.23
+	Disponibilité: 36.36%
+
+Link 15 - 34: 
+	Moyenne: 135.47
+	Disponibilité: 100.00%
+
+Link 15 - 35: 
+	Moyenne: 233.62
+	Disponibilité: 100.00%
+
+Link 16 - 17: 
+	Moyenne: 48.73
+	Disponibilité: 100.00%
+
+Link 16 - 18: 
+	Moyenne: 54.58
+	Disponibilité: 100.00%
+
+Link 16 - 19: 
+	Moyenne: 214.15
+	Disponibilité: 90.91%
+
+Link 16 - 20: 
+	Moyenne: 153.29
+	Disponibilité: 100.00%
+
+Link 16 - 21: 
+	Moyenne: 98.94
+	Disponibilité: 100.00%
+
+Link 16 - 22: 
+	Moyenne: 84.28
+	Disponibilité: 100.00%
+
+Link 16 - 23: 
+	Moyenne: 286.57
+	Disponibilité: 90.91%
+
+Link 16 - 24: 
+	Moyenne: 978.43
+	Disponibilité: 54.55%
+
+Link 16 - 25: 
+	Moyenne: 82.37
+	Disponibilité: 100.00%
+
+Link 16 - 26: 
+	Moyenne: 960.31
+	Disponibilité: 54.55%
+
+Link 16 - 27: 
+	Moyenne: 101.21
+	Disponibilité: 100.00%
+
+Link 16 - 28: 
+	Moyenne: 116.34
+	Disponibilité: 100.00%
+
+Link 16 - 29: 
+	Moyenne: 1142.58
+	Disponibilité: 45.45%
+
+Link 16 - 30: 
+	Moyenne: 105.57
+	Disponibilité: 100.00%
+
+Link 16 - 31: 
+	Moyenne: 376.96
+	Disponibilité: 90.91%
+
+Link 16 - 32: 
+	Moyenne: 236.29
+	Disponibilité: 100.00%
+
+Link 16 - 33: 
+	Moyenne: 1559.09
+	Disponibilité: 27.27%
+
+Link 16 - 34: 
+	Moyenne: 134.17
+	Disponibilité: 100.00%
+
+Link 16 - 35: 
+	Moyenne: 227.08
+	Disponibilité: 100.00%
+
+Link 17 - 18: 
+	Moyenne: 31.42
+	Disponibilité: 100.00%
+
+Link 17 - 19: 
+	Moyenne: 205.88
+	Disponibilité: 90.91%
+
+Link 17 - 20: 
+	Moyenne: 119.18
+	Disponibilité: 100.00%
+
+Link 17 - 21: 
+	Moyenne: 74.54
+	Disponibilité: 100.00%
+
+Link 17 - 22: 
+	Moyenne: 69.63
+	Disponibilité: 100.00%
+
+Link 17 - 23: 
+	Moyenne: 270.05
+	Disponibilité: 90.91%
+
+Link 17 - 24: 
+	Moyenne: 973.77
+	Disponibilité: 54.55%
+
+Link 17 - 25: 
+	Moyenne: 68.94
+	Disponibilité: 100.00%
+
+Link 17 - 26: 
+	Moyenne: 956.14
+	Disponibilité: 54.55%
+
+Link 17 - 27: 
+	Moyenne: 92.27
+	Disponibilité: 100.00%
+
+Link 17 - 28: 
+	Moyenne: 99.80
+	Disponibilité: 100.00%
+
+Link 17 - 29: 
+	Moyenne: 1134.26
+	Disponibilité: 45.45%
+
+Link 17 - 30: 
+	Moyenne: 108.20
+	Disponibilité: 100.00%
+
+Link 17 - 31: 
+	Moyenne: 363.56
+	Disponibilité: 90.91%
+
+Link 17 - 32: 
+	Moyenne: 173.28
+	Disponibilité: 100.00%
+
+Link 17 - 33: 
+	Moyenne: 1331.32
+	Disponibilité: 36.36%
+
+Link 17 - 34: 
+	Moyenne: 133.86
+	Disponibilité: 100.00%
+
+Link 17 - 35: 
+	Moyenne: 202.90
+	Disponibilité: 100.00%
+
+Link 18 - 19: 
+	Moyenne: 210.12
+	Disponibilité: 90.91%
+
+Link 18 - 20: 
+	Moyenne: 90.54
+	Disponibilité: 100.00%
+
+Link 18 - 21: 
+	Moyenne: 89.83
+	Disponibilité: 100.00%
+
+Link 18 - 22: 
+	Moyenne: 65.87
+	Disponibilité: 100.00%
+
+Link 18 - 23: 
+	Moyenne: 273.39
+	Disponibilité: 90.91%
+
+Link 18 - 24: 
+	Moyenne: 975.96
+	Disponibilité: 54.55%
+
+Link 18 - 25: 
+	Moyenne: 71.41
+	Disponibilité: 100.00%
+
+Link 18 - 26: 
+	Moyenne: 958.07
+	Disponibilité: 54.55%
+
+Link 18 - 27: 
+	Moyenne: 93.43
+	Disponibilité: 100.00%
+
+Link 18 - 28: 
+	Moyenne: 103.60
+	Disponibilité: 100.00%
+
+Link 18 - 29: 
+	Moyenne: 1132.12
+	Disponibilité: 45.45%
+
+Link 18 - 30: 
+	Moyenne: 105.55
+	Disponibilité: 100.00%
+
+Link 18 - 31: 
+	Moyenne: 206.56
+	Disponibilité: 100.00%
+
+Link 18 - 32: 
+	Moyenne: 180.91
+	Disponibilité: 100.00%
+
+Link 18 - 33: 
+	Moyenne: 1165.72
+	Disponibilité: 45.45%
+
+Link 18 - 34: 
+	Moyenne: 131.47
+	Disponibilité: 100.00%
+
+Link 18 - 35: 
+	Moyenne: 207.95
+	Disponibilité: 100.00%
+
+Link 19 - 20: 
+	Moyenne: 69.63
+	Disponibilité: 100.00%
+
+Link 19 - 21: 
+	Moyenne: 59.59
+	Disponibilité: 100.00%
+
+Link 19 - 22: 
+	Moyenne: 58.64
+	Disponibilité: 100.00%
+
+Link 19 - 23: 
+	Moyenne: 248.18
+	Disponibilité: 90.91%
+
+Link 19 - 24: 
+	Moyenne: 960.56
+	Disponibilité: 54.55%
+
+Link 19 - 25: 
+	Moyenne: 97.21
+	Disponibilité: 100.00%
+
+Link 19 - 26: 
+	Moyenne: 947.85
+	Disponibilité: 54.55%
+
+Link 19 - 27: 
+	Moyenne: 70.97
+	Disponibilité: 100.00%
+
+Link 19 - 28: 
+	Moyenne: 78.55
+	Disponibilité: 100.00%
+
+Link 19 - 29: 
+	Moyenne: 1127.92
+	Disponibilité: 45.45%
+
+Link 19 - 30: 
+	Moyenne: 78.04
+	Disponibilité: 100.00%
+
+Link 19 - 31: 
+	Moyenne: 199.40
+	Disponibilité: 100.00%
+
+Link 19 - 32: 
+	Moyenne: 156.66
+	Disponibilité: 100.00%
+
+Link 19 - 33: 
+	Moyenne: 1361.99
+	Disponibilité: 36.36%
+
+Link 19 - 34: 
+	Moyenne: 120.21
+	Disponibilité: 100.00%
+
+Link 19 - 35: 
+	Moyenne: 205.63
+	Disponibilité: 100.00%
+
+Link 20 - 21: 
+	Moyenne: 46.58
+	Disponibilité: 100.00%
+
+Link 20 - 22: 
+	Moyenne: 50.81
+	Disponibilité: 100.00%
+
+Link 20 - 23: 
+	Moyenne: 411.01
+	Disponibilité: 81.82%
+
+Link 20 - 24: 
+	Moyenne: 1127.03
+	Disponibilité: 45.45%
+
+Link 20 - 25: 
+	Moyenne: 84.33
+	Disponibilité: 100.00%
+
+Link 20 - 26: 
+	Moyenne: 939.25
+	Disponibilité: 54.55%
+
+Link 20 - 27: 
+	Moyenne: 66.28
+	Disponibilité: 100.00%
+
+Link 20 - 28: 
+	Moyenne: 417.89
+	Disponibilité: 81.82%
+
+Link 20 - 29: 
+	Moyenne: 1113.89
+	Disponibilité: 45.45%
+
+Link 20 - 30: 
+	Moyenne: 76.91
+	Disponibilité: 100.00%
+
+Link 20 - 31: 
+	Moyenne: 499.57
+	Disponibilité: 81.82%
+
+Link 20 - 32: 
+	Moyenne: 212.31
+	Disponibilité: 100.00%
+
+Link 20 - 33: 
+	Moyenne: 1537.60
+	Disponibilité: 27.27%
+
+Link 20 - 34: 
+	Moyenne: 333.44
+	Disponibilité: 90.91%
+
+Link 20 - 35: 
+	Moyenne: 343.71
+	Disponibilité: 90.91%
+
+Link 21 - 22: 
+	Moyenne: 48.39
+	Disponibilité: 100.00%
+
+Link 21 - 23: 
+	Moyenne: 408.86
+	Disponibilité: 81.82%
+
+Link 21 - 24: 
+	Moyenne: 959.26
+	Disponibilité: 54.55%
+
+Link 21 - 25: 
+	Moyenne: 37.02
+	Disponibilité: 100.00%
+
+Link 21 - 26: 
+	Moyenne: 939.69
+	Disponibilité: 54.55%
+
+Link 21 - 27: 
+	Moyenne: 66.58
+	Disponibilité: 100.00%
+
+Link 21 - 28: 
+	Moyenne: 70.61
+	Disponibilité: 100.00%
+
+Link 21 - 29: 
+	Moyenne: 1129.62
+	Disponibilité: 45.45%
+
+Link 21 - 30: 
+	Moyenne: 62.48
+	Disponibilité: 100.00%
+
+Link 21 - 31: 
+	Moyenne: 362.19
+	Disponibilité: 90.91%
+
+Link 21 - 32: 
+	Moyenne: 220.02
+	Disponibilité: 100.00%
+
+Link 21 - 33: 
+	Moyenne: 1236.43
+	Disponibilité: 45.45%
+
+Link 21 - 34: 
+	Moyenne: 186.79
+	Disponibilité: 100.00%
+
+Link 21 - 35: 
+	Moyenne: 199.10
+	Disponibilité: 100.00%
+
+Link 22 - 23: 
+	Moyenne: 413.17
+	Disponibilité: 81.82%
+
+Link 22 - 24: 
+	Moyenne: 959.73
+	Disponibilité: 54.55%
+
+Link 22 - 25: 
+	Moyenne: 69.11
+	Disponibilité: 100.00%
+
+Link 22 - 26: 
+	Moyenne: 942.26
+	Disponibilité: 54.55%
+
+Link 22 - 27: 
+	Moyenne: 50.21
+	Disponibilité: 100.00%
+
+Link 22 - 28: 
+	Moyenne: 76.77
+	Disponibilité: 100.00%
+
+Link 22 - 29: 
+	Moyenne: 1129.27
+	Disponibilité: 45.45%
+
+Link 22 - 30: 
+	Moyenne: 65.56
+	Disponibilité: 100.00%
+
+Link 22 - 31: 
+	Moyenne: 336.90
+	Disponibilité: 90.91%
+
+Link 22 - 32: 
+	Moyenne: 282.22
+	Disponibilité: 100.00%
+
+Link 22 - 33: 
+	Moyenne: 1365.79
+	Disponibilité: 36.36%
+
+Link 22 - 34: 
+	Moyenne: 182.73
+	Disponibilité: 100.00%
+
+Link 22 - 35: 
+	Moyenne: 164.30
+	Disponibilité: 100.00%
+
+Link 23 - 24: 
+	Moyenne: 944.96
+	Disponibilité: 54.55%
+
+Link 23 - 25: 
+	Moyenne: 45.45
+	Disponibilité: 100.00%
+
+Link 23 - 26: 
+	Moyenne: 933.79
+	Disponibilité: 54.55%
+
+Link 23 - 27: 
+	Moyenne: 47.43
+	Disponibilité: 100.00%
+
+Link 23 - 28: 
+	Moyenne: 50.26
+	Disponibilité: 100.00%
+
+Link 23 - 29: 
+	Moyenne: 1112.54
+	Disponibilité: 45.45%
+
+Link 23 - 30: 
+	Moyenne: 67.79
+	Disponibilité: 100.00%
+
+Link 23 - 31: 
+	Moyenne: 150.06
+	Disponibilité: 100.00%
+
+Link 23 - 32: 
+	Moyenne: 236.00
+	Disponibilité: 100.00%
+
+Link 23 - 33: 
+	Moyenne: 1410.00
+	Disponibilité: 36.36%
+
+Link 23 - 34: 
+	Moyenne: 208.41
+	Disponibilité: 100.00%
+
+Link 23 - 35: 
+	Moyenne: 333.48
+	Disponibilité: 90.91%
+
+Link 24 - 25: 
+	Moyenne: 59.86
+	Disponibilité: 100.00%
+
+Link 24 - 26: 
+	Moyenne: 938.48
+	Disponibilité: 54.55%
+
+Link 24 - 27: 
+	Moyenne: 63.30
+	Disponibilité: 100.00%
+
+Link 24 - 28: 
+	Moyenne: 72.27
+	Disponibilité: 100.00%
+
+Link 24 - 29: 
+	Moyenne: 1121.43
+	Disponibilité: 45.45%
+
+Link 24 - 30: 
+	Moyenne: 86.78
+	Disponibilité: 100.00%
+
+Link 24 - 31: 
+	Moyenne: 314.78
+	Disponibilité: 90.91%
+
+Link 24 - 32: 
+	Moyenne: 253.32
+	Disponibilité: 100.00%
+
+Link 24 - 33: 
+	Moyenne: 1405.39
+	Disponibilité: 36.36%
+
+Link 24 - 34: 
+	Moyenne: 218.23
+	Disponibilité: 100.00%
+
+Link 24 - 35: 
+	Moyenne: 365.21
+	Disponibilité: 90.91%
+
+Link 25 - 26: 
+	Moyenne: 922.56
+	Disponibilité: 54.55%
+
+Link 25 - 27: 
+	Moyenne: 32.75
+	Disponibilité: 100.00%
+
+Link 25 - 28: 
+	Moyenne: 39.71
+	Disponibilité: 100.00%
+
+Link 25 - 29: 
+	Moyenne: 1117.13
+	Disponibilité: 45.45%
+
+Link 25 - 30: 
+	Moyenne: 39.90
+	Disponibilité: 100.00%
+
+Link 25 - 31: 
+	Moyenne: 154.95
+	Disponibilité: 100.00%
+
+Link 25 - 32: 
+	Moyenne: 232.27
+	Disponibilité: 100.00%
+
+Link 25 - 33: 
+	Moyenne: 1409.69
+	Disponibilité: 36.36%
+
+Link 25 - 34: 
+	Moyenne: 149.10
+	Disponibilité: 100.00%
+
+Link 25 - 35: 
+	Moyenne: 153.42
+	Disponibilité: 100.00%
+
+Link 26 - 27: 
+	Moyenne: 19.01
+	Disponibilité: 100.00%
+
+Link 26 - 28: 
+	Moyenne: 25.37
+	Disponibilité: 100.00%
+
+Link 26 - 29: 
+	Moyenne: 1110.65
+	Disponibilité: 45.45%
+
+Link 26 - 30: 
+	Moyenne: 42.65
+	Disponibilité: 100.00%
+
+Link 26 - 31: 
+	Moyenne: 316.21
+	Disponibilité: 90.91%
+
+Link 26 - 32: 
+	Moyenne: 227.92
+	Disponibilité: 100.00%
+
+Link 26 - 33: 
+	Moyenne: 1409.09
+	Disponibilité: 36.36%
+
+Link 26 - 34: 
+	Moyenne: 183.74
+	Disponibilité: 100.00%
+
+Link 26 - 35: 
+	Moyenne: 301.25
+	Disponibilité: 90.91%
+
+Link 27 - 28: 
+	Moyenne: 29.23
+	Disponibilité: 100.00%
+
+Link 27 - 29: 
+	Moyenne: 1115.04
+	Disponibilité: 45.45%
+
+Link 27 - 30: 
+	Moyenne: 53.44
+	Disponibilité: 100.00%
+
+Link 27 - 31: 
+	Moyenne: 163.57
+	Disponibilité: 100.00%
+
+Link 27 - 32: 
+	Moyenne: 232.22
+	Disponibilité: 100.00%
+
+Link 27 - 33: 
+	Moyenne: 1427.74
+	Disponibilité: 36.36%
+
+Link 27 - 34: 
+	Moyenne: 187.65
+	Disponibilité: 100.00%
+
+Link 27 - 35: 
+	Moyenne: 303.39
+	Disponibilité: 90.91%
+
+Link 28 - 29: 
+	Moyenne: 1113.93
+	Disponibilité: 45.45%
+
+Link 28 - 30: 
+	Moyenne: 48.56
+	Disponibilité: 100.00%
+
+Link 28 - 31: 
+	Moyenne: 321.28
+	Disponibilité: 90.91%
+
+Link 28 - 32: 
+	Moyenne: 235.52
+	Disponibilité: 100.00%
+
+Link 28 - 33: 
+	Moyenne: 1364.60
+	Disponibilité: 36.36%
+
+Link 28 - 34: 
+	Moyenne: 189.75
+	Disponibilité: 100.00%
+
+Link 28 - 35: 
+	Moyenne: 313.29
+	Disponibilité: 90.91%
+
+Link 29 - 30: 
+	Moyenne: 66.41
+	Disponibilité: 100.00%
+
+Link 29 - 31: 
+	Moyenne: 317.56
+	Disponibilité: 90.91%
+
+Link 29 - 32: 
+	Moyenne: 234.67
+	Disponibilité: 100.00%
+
+Link 29 - 33: 
+	Moyenne: 1390.49
+	Disponibilité: 36.36%
+
+Link 29 - 34: 
+	Moyenne: 203.25
+	Disponibilité: 100.00%
+
+Link 29 - 35: 
+	Moyenne: 145.99
+	Disponibilité: 100.00%
+
+Link 30 - 31: 
+	Moyenne: 511.05
+	Disponibilité: 81.82%
+
+Link 30 - 32: 
+	Moyenne: 572.30
+	Disponibilité: 81.82%
+
+Link 30 - 33: 
+	Moyenne: 1359.69
+	Disponibilité: 36.36%
+
+Link 30 - 34: 
+	Moyenne: 1180.57
+	Disponibilité: 45.45%
+
+Link 30 - 35: 
+	Moyenne: 333.47
+	Disponibilité: 90.91%
+
+Link 31 - 32: 
+	Moyenne: 347.35
+	Disponibilité: 100.00%
+
+Link 31 - 33: 
+	Moyenne: 1409.17
+	Disponibilité: 36.36%
+
+Link 31 - 34: 
+	Moyenne: 375.97
+	Disponibilité: 100.00%
+
+Link 31 - 35: 
+	Moyenne: 274.39
+	Disponibilité: 100.00%
+
+Link 32 - 33: 
+	Moyenne: 1292.94
+	Disponibilité: 36.36%
+
+Link 32 - 34: 
+	Moyenne: 65.55
+	Disponibilité: 100.00%
+
+Link 32 - 35: 
+	Moyenne: 300.06
+	Disponibilité: 100.00%
+
+Link 33 - 34: 
+	Moyenne: 978.97
+	Disponibilité: 54.55%
+
+Link 33 - 35: 
+	Moyenne: 1108.53
+	Disponibilité: 54.55%
+
+Link 34 - 35: 
+	Moyenne: 1080.79
+	Disponibilité: 54.55%
+
